@@ -29,6 +29,9 @@ jobs:
       # Runs a single command using the runners shell
       - name: Honkit build
         run: honkit build . ./public
+     
+      - name: Honkit PDF
+        run: honkit pdf . ./public/javist-in-the-golang-world.pdf  
 
       # Runs a set of commands using the runners shell
       #- name: Run a multi-line script
