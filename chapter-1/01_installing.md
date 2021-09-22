@@ -6,9 +6,9 @@ Ok, so you've decided that you you'd like to write and run some Go code. GOOD!
 
 Now we just need to get it.
 
-In Java world, there are currently multiple distributions of a development kit. Do you want a Java from Oracle, Amazon,RedHat or Microsoft? Or perhaps from Zulu or AdoptOpenJDK? Choose wisely, depending on the runtime environment and licence conditions. Then you got multiple versions. There is a latest version, LTS (Long-term-support) version, some obsolete LTS versions, that people still use. Plus you can choose which JVM you want to run - are you a HotSpot or OpenJ9 guy?
+In Java world, there are currently multiple distributions of a development kit. Do you want a Java from Oracle, Amazon,RedHat or Microsoft? Or perhaps from Zulu or AdoptOpenJDK(Adoptium)? Choose wisely, depending on the runtime environment and licence conditions. Then you got multiple versions. There is a latest version, LTS (Long-term-support) version, some obsolete LTS versions, that people still use. Plus you can choose which JVM you want to run - are you a HotSpot or OpenJ9 guy?
 
-I know, I'm kinda exaggerating right now. In most cases you pick your favorite one or you are told by your superiors in your work. And when you really don't know which one to choose, you just go for the latest AdoptOpenJDK build.
+I know, I'm kinda exaggerating right now. In most cases you pick your favorite one or you are told by your superiors in your work. And when you really don't know which one to choose, you just go for the latest AdoptOpenJDK(Adoptium) build.
 
 Well, good news. You do not have to worry about this decision in the Go world.
 
